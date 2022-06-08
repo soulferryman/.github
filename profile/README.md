@@ -9,7 +9,6 @@
 <hr/>
 
 <div style='display:block'>
-  <div>News</div>
-  <p>G6 家族新成员：GraphInsight</p>
-  <p>2022.06.06</p>
+  <div>News 🎉</div>
+  <p> G6 家族新成员：[GraphInsight](https://github.com/antvis/GraphInsight)  2022.06.06</p>
 </div>
