@@ -8,7 +8,7 @@
 
 <hr/>
 
-<span>News! AntV/G6 家族再添新成员：一款在线可视化关系数据的分析产品，同时也是一款面向图分析应用研发的低代码平台</span>
+<span>News! AntV G6 家族再添新成员：一款在线可视化关系数据的分析产品，同时也是一款面向图分析应用研发的低代码平台</span>
 
 <p>
 <a href="https://github.com/antvis/GraphInsight">
