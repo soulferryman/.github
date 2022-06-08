@@ -8,11 +8,10 @@
 
 <hr/>
 
-<span>NEWS!</span>
+<span>NEWS! A low-code graph analysis application building platform, and also a graph visual analysis product</span>
 
 <p>
-G6 家族新成员
 <a href="https://github.com/antvis/GraphInsight">
-  <img width="100" src="https://gw.alipayobjects.com/zos/bmw-prod/c2d4b2f5-2a34-4ae5-86c4-df97f7136105.svg">
+  <img height="30" src="https://gw.alipayobjects.com/zos/bmw-prod/c2d4b2f5-2a34-4ae5-86c4-df97f7136105.svg">
 </a>
 </p>
