@@ -7,6 +7,4 @@
 <p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
 
 
-<h1>
-  <p>News 🎉 G6 家族新成员：[GraphInsight](https://github.com/antvis/GraphInsight)  2022.06.06</p>
-</h1>
+<span>🎉 G6 家族新成员：</span>[GraphInsight](https://github.com/antvis/GraphInsight)  <span>2022.06.06</span>
