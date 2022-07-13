@@ -8,6 +8,8 @@
 
 <h2></h2>
 
+![](https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*yMklTYA1DBgAAAAAAAAAAAAAARQnAQ)
+
 <span>News! AntV G6 家族再添新成员：一款在线可视化关系数据的分析产品，同时也是一款面向图分析应用研发的低代码平台</span>
 
 <p>
