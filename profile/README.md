@@ -6,7 +6,7 @@
 
 <p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
 
-<img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*XNN1SYyjm8cAAAAAAAAAAAAAARQnAQ' width='100%'>
+<img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
 
 
 <h2></h2>
