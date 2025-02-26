@@ -1,14 +1,12 @@
-<p align="center">
-  <a href="https://antv.vision">
-    <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
-  </a>
-</p>
+AIOps社区是由云智慧发起，针对运维业务场景，提供算法、算力、数据集整体的服务体系及智能运维业务场景的解决方案交流社区。 社区致力于传播AIOps技术，旨在与各行业客户、用户、研究者和开发者们共同解决智能运维行业技术难题、推动AIOps技术在企业中落地、建设健康共赢的AIOps开发者生态。
 
-<p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
 
-<h2></h2>
+GIF
 
-<img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
+🔭   当前重点开源项目为数据可视化编排平台 FlyFish
 
-- News！AntV G6 家族再添新成员，一款图分析应用研发平台：[GraphInsight](https://github.com/antvis/GraphInsight) 
-- News！[G2 5.0](https://g2-next.antv.vision/) 全新版本开发中，正式版本将于 11.22 和大家见面。
+🤝   如果您对AIOps社区建设有任何想法，请通过社区论坛等可行方式告知我们
+
+👨🏻‍💻   社区已成立 AIOps社区专家团，欢迎加入
+
+💬   关于云智慧产品生态合作或技术咨询，欢迎添加微信或邮件至开源能力部
